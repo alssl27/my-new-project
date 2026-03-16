@@ -1,3 +1,6 @@
+p {
+    font-weight: bold;
+}
 body {
     background-color: rgb(252, 164, 243);
     margin: 0;
